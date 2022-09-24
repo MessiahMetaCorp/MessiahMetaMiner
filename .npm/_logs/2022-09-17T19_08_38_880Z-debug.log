@@ -1,0 +1,20 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
+2 info using npm@6.14.17
+3 info using node@v14.20.0
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle explorer@1.101.0~prestart: explorer@1.101.0
+6 verbose lifecycle explorer@1.101.0~prestart: unsafe-perm in lifecycle true
+7 verbose lifecycle explorer@1.101.0~prestart: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/root/explorer/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+8 verbose lifecycle explorer@1.101.0~prestart: CWD: /root/explorer
+9 silly lifecycle explorer@1.101.0~prestart: Args: [ '-c', 'node ./scripts/prestart.js' ]
+10 silly lifecycle explorer@1.101.0~prestart: Returned: code: 0  signal: null
+11 info lifecycle explorer@1.101.0~start: explorer@1.101.0
+12 verbose lifecycle explorer@1.101.0~start: unsafe-perm in lifecycle true
+13 verbose lifecycle explorer@1.101.0~start: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/root/explorer/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+14 verbose lifecycle explorer@1.101.0~start: CWD: /root/explorer
+15 silly lifecycle explorer@1.101.0~start: Args: [ '-c', 'node --stack-size=10000 ./bin/cluster' ]
+16 timing npm Completed in 13138ms
+17 error cb() never called!
+18 error This is an error with npm itself. Please report this error at:
+19 error <https://npm.community>

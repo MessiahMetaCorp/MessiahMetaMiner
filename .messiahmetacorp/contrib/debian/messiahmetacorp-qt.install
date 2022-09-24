@@ -1,0 +1,6 @@
+usr/local/bin/messiahmetacorp-qt usr/bin
+share/pixmaps/messiahmetacorp32.xpm usr/share/pixmaps
+share/pixmaps/messiahmetacorp16.xpm usr/share/pixmaps
+share/pixmaps/messiahmetacorp128.png usr/share/pixmaps
+debian/messiahmetacorp-qt.desktop usr/share/applications
+debian/messiahmetacorp-qt.protocol usr/share/kde4/services/

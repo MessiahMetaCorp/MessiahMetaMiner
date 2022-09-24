@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MessiahMetaCorp Core
+Comment=MessiahMetaCorp P2P Cryptocurrency
+Comment[fr]=MessiahMetaCorp, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MessiahMetaCorp, eşten eşe kriptografik sanal para birimi
+Exec=messiahmetacorp-qt %u
+Terminal=false
+Type=Application
+Icon=messiahmetacorp128
+MimeType=x-scheme-handler/messiahmetacorp;
+Categories=Office;Finance;
+StartupWMClass=MessiahMetaCorp-qt
